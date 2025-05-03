@@ -6,8 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffffff&lines=Топ-10000+по+адекватности...)](https://git.io/typing-svg)
 <h4>
 <p>Иногда здесь будут выкладываться наработки моих домашних проектов.
-Также у меня есть публичный <a href="https://t.me/konekokawai_channel" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> канал,<br />
-в нём выкладываются фотографии <b>котиков</b> и всякие разработки (и не только).<br /></p>
+Также у меня есть публичный <a href="https://t.me/konekokawai_channel" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> канал, в нём выкладываются фотографии <b>котиков</b> и всякие разработки (и не только).<br /></p>
 
 
 <hr />
