@@ -3,7 +3,7 @@
 ![](https://github.com/KonekoKawai/KonekoKawai/blob/main/konekokawai_wallpaper.jpg)
 <hr />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffffff&lines=Топ-10000+по+адекватности...)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffffff&lines=Топ-10000+по+адекватности...)
 
 <p>Здесь я выкладываю наработки домашних проектов.
 Также у меня есть публичный <a href="https://t.me/konekokawai_channel" target="_blank"><img align="center" height="20" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> канал, в нём выкладываются фотографии <b>котиков</b> и всякие разработки (и не только).<br /></p>
